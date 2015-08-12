@@ -11,6 +11,7 @@ using namespace DevDayCpShared;
 int main()
 {
 	ProdutoViewModel viewModel;
+	wcout << viewModel.ToString();
 	viewModel.produtoPai = make_shared<ProdutoViewModel>();
 	viewModel.produtoPai->id = 666;
 	ProdutoViewModel vm2;

@@ -17,7 +17,6 @@
     <ClInclude Include="$(MSBuildThisFileDirectory)..\DevDayCP.WindowsUniversal.StaticLibrary\pch.h" />
     <ClInclude Include="$(MSBuildThisFileDirectory)IStringConvertible.h" />
     <ClInclude Include="$(MSBuildThisFileDirectory)ProdutoViewModel.h" />
-    <ClInclude Include="$(MSBuildThisFileDirectory)memory.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="$(MSBuildThisFileDirectory)ProdutoViewModel.cpp" />
